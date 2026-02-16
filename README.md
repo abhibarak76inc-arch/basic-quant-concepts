@@ -1,2 +1,11 @@
-# basic-quant-concepts
-Quant finance + Python basics: returns, compounding, risk metrics, regressions, and small practice problems.
+# Basic Quant Concepts
+
+This repository contains small quantitative finance exercises implemented in Python.
+
+## 01 – Simple vs Log Returns
+- Understand compounding
+- Compare simple and log returns
+- Demonstrate why log returns are additive
+- Visual comparison of cumulative performance
+
+More topics coming daily.
