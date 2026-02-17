@@ -15,6 +15,7 @@ This repository contains small quantitative finance exercises implemented in Pyt
 - Historical VaR
 - Parametric (Gaussian) VaR
 - Monte Carlo VaR
+  
 ![VaR Plot](images/value_at_risk_plot.png)
 
 More topics coming daily.
