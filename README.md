@@ -18,4 +18,13 @@ This repository contains small quantitative finance exercises implemented in Pyt
   
 ![VaR Plot](images/value_at_risk_plot.png)
 
+## 03 – Volatility Scaling (√T Rule)
+- Simulate daily returns
+- Aggregate returns to weekly/monthly/quarterly horizons
+- Compare realized volatility vs √T prediction
+- Visual proof with plot
+
+![Volatility Scaling](images/vol_scaling.png)
+
+
 More topics coming daily.
