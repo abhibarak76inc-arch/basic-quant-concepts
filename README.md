@@ -26,5 +26,15 @@ This repository contains small quantitative finance exercises implemented in Pyt
 
 ![Volatility Scaling](images/vol_scaling.png)
 
+## 04 – CAPM Regression (Alpha & Beta)
+- Download real market data (AAPL vs SPY)
+- Compute excess returns
+- Estimate alpha and beta via OLS
+- Report t-stats, p-values, R²
+- Visualize regression fit
+
+![CAPM Regression](images/capm_regression_plot.png)
+
+
 
 More topics coming daily.
