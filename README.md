@@ -35,6 +35,14 @@ This repository contains small quantitative finance exercises implemented in Pyt
 
 ![CAPM Regression](images/capm_regression_plot.png)
 
+## 05 – Markowitz Portfolio Optimization
+- Monte Carlo simulation of 10,000 portfolios
+- Annualized return & volatility
+- Sharpe ratio optimization
+- Efficient frontier visualization
+
+![Efficient Frontier](images/efficient_frontier.png)
+
 
 
 More topics coming daily.
