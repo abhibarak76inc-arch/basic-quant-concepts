@@ -43,6 +43,13 @@ This repository contains small quantitative finance exercises implemented in Pyt
 
 ![Efficient Frontier](images/efficient_frontier.png)
 
+## 06 – Rolling Risk Dashboard
+- Rolling 30D volatility (annualized)
+- Rolling 60D Sharpe ratio
+- Rolling 252D maximum drawdown
+- Equity curve + risk monitoring visualization
+
+![Rolling Risk Dashboard](images/rolling_risk_dashboard.png)
 
 
 More topics coming daily.
