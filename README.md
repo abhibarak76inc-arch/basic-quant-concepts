@@ -51,5 +51,13 @@ This repository contains small quantitative finance exercises implemented in Pyt
 
 ![Rolling Risk Dashboard](images/rolling_risk_dashboard.png)
 
+## 07 – Pairs Trading (Z-score Spread)
+- Mean reversion idea using price ratio
+- Rolling Z-score of KO/PEP ratio
+- Entry/exit rules using Z-score thresholds
+- Strategy equity curve + basic performance stats
+
+![Pairs Trading Spread](images/pairs_trading_spread.png)
+
 
 More topics coming daily.
