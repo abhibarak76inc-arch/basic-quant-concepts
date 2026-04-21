@@ -59,5 +59,11 @@ This repository contains small quantitative finance exercises implemented in Pyt
 
 ![Pairs Trading Spread](images/pairs_trading_spread.png)
 
+## 08 – Expected Shortfall (CVaR)
+- Compare VaR and CVaR
+- Historical and parametric tail-risk estimates
+- Visualize tail-loss thresholds
+- Show why CVaR is more conservative than VaR
 
+![Expected Shortfall](images/expected_shortfall_plot.png)
 More topics coming daily.
