@@ -65,5 +65,13 @@ This repository contains small quantitative finance exercises implemented in Pyt
 - Visualize tail-loss thresholds
 - Show why CVaR is more conservative than VaR
 
+## 09 – Correlation & Diversification
+- Compute covariance and correlation matrices
+- Analyze relationships between assets
+- Demonstrate diversification effect
+- Visualize correlation heatmap
+
+![Correlation](images/correlation_heatmap.png)
+
 ![Expected Shortfall](images/expected_shortfall_plot.png)
 More topics coming daily.
