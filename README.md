@@ -65,6 +65,9 @@ This repository contains small quantitative finance exercises implemented in Pyt
 - Visualize tail-loss thresholds
 - Show why CVaR is more conservative than VaR
 
+  ![Expected Shortfall](images/expected_shortfall_plot.png)
+
+
 ## 09 – Correlation & Diversification
 - Compute covariance and correlation matrices
 - Analyze relationships between assets
@@ -73,5 +76,12 @@ This repository contains small quantitative finance exercises implemented in Pyt
 
 ![Correlation](images/correlation_heatmap.png)
 
-![Expected Shortfall](images/expected_shortfall_plot.png)
+## 10 – Rolling Correlation
+- Compute time-varying correlation between assets
+- 60-day rolling window analysis
+- Observe how relationships change over time
+- Important for dynamic risk management
+
+![Rolling Correlation](images/rolling_correlation.png)
+
 More topics coming daily.
