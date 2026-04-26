@@ -84,4 +84,11 @@ This repository contains small quantitative finance exercises implemented in Pyt
 
 ![Rolling Correlation](images/rolling_correlation.png)
 
+## 11 – Portfolio Beta (Factor Exposure)
+- Compute beta for individual stocks using CAPM
+- Calculate portfolio beta as weighted average
+- Visual comparison of individual vs portfolio exposure
+
+![Portfolio Beta](images/portfolio_beta.png)
+
 More topics coming daily.
