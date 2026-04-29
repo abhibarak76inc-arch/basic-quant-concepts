@@ -91,4 +91,12 @@ This repository contains small quantitative finance exercises implemented in Pyt
 
 ![Portfolio Beta](images/portfolio_beta.png)
 
+## 12 – Backtesting (Momentum Strategy)
+- Implement simple momentum strategy
+- Avoid look-ahead bias using signal shift
+- Compare against buy-and-hold
+- Evaluate performance (Sharpe, drawdown)
+
+![Momentum Backtest](images/momentum_backtest.png)
+
 More topics coming daily.
