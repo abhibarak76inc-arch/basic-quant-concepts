@@ -99,4 +99,12 @@ This repository contains small quantitative finance exercises implemented in Pyt
 
 ![Momentum Backtest](images/momentum_backtest.png)
 
+## 13 – Transaction Costs in Backtesting
+- Introduce realistic trading costs
+- Detect trades using position changes
+- Compare performance before and after costs
+- Demonstrate real-world impact on strategies
+
+![Transaction Costs](images/transaction_costs.png)
+
 More topics coming daily.
