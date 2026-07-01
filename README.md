@@ -107,4 +107,13 @@ This repository contains small quantitative finance exercises implemented in Pyt
 
 ![Transaction Costs](images/transaction_costs.png)
 
+## 14 – Black-Scholes Option Pricing
+
+- Price European call and put options
+- Implement the Black-Scholes model
+- Study option price sensitivity to stock price
+- Visualize option value as the stock price changes
+
+![Black-Scholes](images/black_scholes_option.png)
+
 More topics coming daily.
