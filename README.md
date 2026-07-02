@@ -116,4 +116,13 @@ This repository contains small quantitative finance exercises implemented in Pyt
 
 ![Black-Scholes](images/black_scholes_option.png)
 
+## 15 – Binomial Option Pricing
+
+- Implement the Cox-Ross-Rubinstein (CRR) Binomial Model
+- Price a European call option
+- Learn backward induction and risk-neutral valuation
+- Compare results with the Black-Scholes model
+
+![Binomial Option](images/binomial_option_payoff.png)
+
 More topics coming daily.
